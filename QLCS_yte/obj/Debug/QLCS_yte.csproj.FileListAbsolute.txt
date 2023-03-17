@@ -1,0 +1,10 @@
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\bin\Debug\QLCS_yte.exe.config
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\bin\Debug\QLCS_yte.exe
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\bin\Debug\QLCS_yte.pdb
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\obj\Debug\QLCS_yte.csprojResolveAssemblyReference.cache
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\obj\Debug\QLCS_yte.Form1.resources
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\obj\Debug\QLCS_yte.Properties.Resources.resources
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\obj\Debug\QLCS_yte.csproj.GenerateResource.Cache
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\obj\Debug\QLCS_yte.exe
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\obj\Debug\QLCS_yte.pdb
+D:\CTU\nam3\2\ltud\btnhom\QLCS_yte\QLCS_yte\obj\Debug\QLCS_yte.login.resources
